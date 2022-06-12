@@ -1,1 +1,1 @@
-
+Combining and intersecting with the common search space of 104 ChIP-seq BED files of individual TFs. Original data is available for download at https://ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137972/suppl/GSE137972_peak_files.tar.gz
