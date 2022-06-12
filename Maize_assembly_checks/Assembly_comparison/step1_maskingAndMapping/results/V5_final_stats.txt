@@ -1,0 +1,9 @@
+LAST mapped the other genome onto maize V5
+V5 is 2182075994 bp long,
+the other is 2134513494 bp long.
+V5 has 295411260 bp unmasked,
+the other has 282405236 bp unmasked.
+Thus, V5 has 13.538083037084181% of its genome unmasked,
+the other genome is 13.230426361502309% unmasked.
+V5 has 92.00387859284713% of its genome covered by the other genome mapped on it.
+96.66243440330547% of the other genome is mapped on the V5 genome.

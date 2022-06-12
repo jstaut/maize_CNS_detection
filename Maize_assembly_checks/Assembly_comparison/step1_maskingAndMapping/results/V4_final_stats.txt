@@ -1,0 +1,9 @@
+LAST mapped the other genome onto maize V4
+V4 is 2134513494 bp long,
+the other is 2182075994 bp long.
+V4 has 282405236 bp unmasked,
+the other has 295411260 bp unmasked.
+Thus, V4 has 13.230426361502309% of its genome unmasked,
+the other genome is 13.538083037084181% unmasked.
+V4 has 96.3855974681716% of its genome covered by the other genome mapped on it.
+94.34777503064711% of the other genome is mapped on the V4 genome.
