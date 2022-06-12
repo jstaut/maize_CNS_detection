@@ -1,0 +1,3 @@
+Coordinates were converted from V4 to V5 using the liftOver tool with chain file available at https://download.maizegdb.org/Zm-B73-REFERENCE-NAM-5.0/chain_files/B73_RefGen_v4_to_Zm-B73-REFERENCE-NAM-5.0.chain
+
+Origina data can be downloaded from https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3398nnn/GSM3398046/suppl/GSM3398046_ATAC_B73_leaf.filtered_ACR.bed.gz, https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3398nnn/GSM3398047/suppl/GSM3398047_ATAC_B73_ear.filtered_ACR.bed.gz, https://ftp.ncbi.nlm.nih.gov/geo/series/GSE94nnn/GSE94291/suppl/GSE94291_DNase_husk.bed.gz and https://ftp.ncbi.nlm.nih.gov/geo/series/GSE94nnn/GSE94291/suppl/GSE94291_DNase_ist.bed.gz
