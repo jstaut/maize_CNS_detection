@@ -1,1 +1,1 @@
-Input for this workflow is the V4 and V5 genome FASTA, and a maize TE library file. The used file TE library file was taken from https://github.com/HuffordLab/NAM-genomes/blob/master/te-annotation/assets/NAM.EDTA1.8.0.MTEC02052020.TElib.clean.fa
+Input for this workflow is the V4 and V5 genome FASTA, and a maize TE library file. The used TE library file was taken from https://github.com/HuffordLab/NAM-genomes/blob/master/te-annotation/assets/NAM.EDTA1.8.0.MTEC02052020.TElib.clean.fa
