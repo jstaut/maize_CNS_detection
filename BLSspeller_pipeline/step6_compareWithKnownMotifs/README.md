@@ -1,1 +1,1 @@
-
+The required input is the folder with individual table output files of the first step of BLSSpeller (see step 5), the data set of known motifs in transfac format (knownMaizeMotifDB_transfac.txt) and a pickled Python dict with known motif comparisons that will get updated (must be an empty pickled dict to start).
