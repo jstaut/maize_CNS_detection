@@ -1,0 +1,15 @@
+bdi
+cpu
+hvu
+obr
+osaindica
+osa
+oth
+ped
+sbi
+sit
+ssp
+tae
+ttu
+zjn
+zma
