@@ -1,1 +1,1 @@
-
+This pipeline requires as input a folder with CNS BED files and a folder with gold standard BED files. All combinations will be made. In addition the investigated genomic subspace (see step 1) should be given.
