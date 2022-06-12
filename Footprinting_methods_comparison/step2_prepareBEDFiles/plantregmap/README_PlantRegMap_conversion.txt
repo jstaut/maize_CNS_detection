@@ -1,0 +1,5 @@
+The genome-wide funTFBS predicted regions were downloaded from:
+ http://plantregmap.gao-lab.org/download_ftp.php?filepath=08-download/Zea_mays/binding/TFBS_from_FunTFBS_genome-wide_Zma.gff
+PlantRegMap does not specify clearly what assembly they used for this mapping. When looking into the naming of the contigs, most likely the maize V3 assembly was used (the PlantRegMap file contains Mt and Pt contigs, which are not present in the V4 and V5 assembly).
+Since no chain files exist to do coordinate conversion from V3 to V4 (or V5) with liftOver, the online Assembly Converter tool provided by Ensembl plants was used. The gff file from PlantRegMap was converted to a BED file with 3 columns and submitted to the tool with the setting "AGPv3 -> B73_RefGen_v4" to do the coversion from V3 to V4.
+The V4 regions were then converted using the V4-to-V5 chain files with liftOver. The final BED is then merged (bedtools sort -i file.bed | mergeBed > finalV5.bed) to give the final regions on the V5 maize assembly.
