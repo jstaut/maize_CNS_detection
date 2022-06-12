@@ -1,0 +1,10 @@
+For V4:
+In full genome: 2134513494 bp out of 163075023 are gene --> this is 7.63991529959379118359%
+In unmasked genome: 282405236 bp out of 114038947 are gene --> this is 40.38131467222512829046%
+In overlapping genome: 272197974 bp out of 111932497 are gene --> this is 41.12172304412522923480%
+In unique genome: 10207262 bp out of 2106450 are gene --> this is 20.63677801157646389403%
+For V5:
+In full genome: 2182075994 bp out of 174934126 are gene --> this is 8.01686680395238333757%
+In unmasked genome: 295411260 bp out of 117277093 are gene --> this is 39.69960149792529912366%
+In overlapping genome: 271789817 bp out of 113832120 are gene --> this is 41.88240797851525099632%
+In unique genome: 23621443 bp out of 3444973 are gene --> this is 14.58409208954761993160%
